@@ -1,0 +1,11 @@
+/* table tr td{
+    border: 4px solid "gray";
+    border-collapse: collapse;
+} */
+td{
+    border: 1px solid "gray" !important
+}
+a{
+    text-decoration: none;
+    color: black;
+}
